@@ -21,6 +21,3 @@
 ## Streak stats
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jiep)  
-
-
-![Profile views](https://gpvc.arturio.dev/jiep)  
