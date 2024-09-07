@@ -13,11 +13,7 @@
 ## Top language used
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiep&l&hide=mathematica&langs_count=10" />
-
-## Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/jiep)  
-
+ 
 ## Streak stats
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jiep)  
